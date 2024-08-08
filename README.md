@@ -1,5 +1,5 @@
 # Flask
-# Flask for Data Science - README
+# Flask for Data Science 
 
 ## Overview
 This project demonstrates how to use Flask, a lightweight web framework, for creating a simple web application that integrates data science functionalities. The application showcases how to deploy data science models and visualizations on the web, making them accessible and interactive.
